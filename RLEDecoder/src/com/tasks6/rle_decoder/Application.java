@@ -21,7 +21,7 @@ public class Application {
 				}
 				if (!Character.isDigit(args[0].charAt(i))) {
 					if (i == 1) {
-						s.append(args[0].charAt(0)).append(symbol);
+						s.append(args[0].charAt(0));
 					}
 					if (i != args[0].length() - 1 && Character.isDigit(args[0].charAt(i + 1))) {
 						continue;

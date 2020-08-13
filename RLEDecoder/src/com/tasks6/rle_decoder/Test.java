@@ -10,6 +10,7 @@ public class Test {
 	    Application.main(new String [] {"Hh9h4e4l4o"});	// Hhhhhhhhhhhhhheeeellllo
 
 	    Application.main(new String[]{"d2f0"});
+	    Application.main(new String[]{"2d2f0"});
 	    Application.main(new String[]{"Hh9h4e4l2o44"});
 	    Application.main(new String[]{"H22l2L2o"});
 	    Application.main(new String[]{"H2ee2l2L2o2"});
